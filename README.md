@@ -1,6 +1,6 @@
 ## Hi there ✌️
 
-I'm Felipe, a Computer Science student based in Brazil.
+I'm Felipe, a Computer Science student in my 5th semester, based in Brazil.
 
 I’m passionate about building elegant systems and using technology to make a positive impact.
 
